@@ -5,6 +5,7 @@
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-melo1&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-melo1&layout=compact)](https://github.com/samuel-melo1/github-readme-stats)
 ## Tecnologias que eu uso no meu dia 
 
 <div style="display:inline_block"><br/>
