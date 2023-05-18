@@ -17,3 +17,4 @@
 </div><br/>
 
 Entusiasta em tecnologia, robótica e apaixonado em ajudar as pessoas atráves da programação.
+![Snake animation](https://github.com/samuel-demelo1/samuel-demelo1/blob/output/github-contribution-grid-snake.svg)
